@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name CSR8645)(type KiCad)(uri "$(KIPRJMOD)/CSR8645.pretty")(options "")(descr ""))
+  (lib (name Murata_CSTCE)(type KiCad)(uri "$(KIPRJMOD)/Murata_CSTCE.pretty")(options "")(descr ""))
+)
